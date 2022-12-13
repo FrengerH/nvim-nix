@@ -14,10 +14,5 @@
 
   in {
     neovim = pkgs.neovim;
-
-    packages.x86_64-linux.neovim = pkgs.neovim;
-
-    packages.x86_64-linux.default = self.packages.x86_64-linux.neovim;
-
   };
 }
