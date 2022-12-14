@@ -56,6 +56,7 @@ in
             # Theme
             dracula-vim
             tokyonight-nvim
+            catppuccin-nvim
 
             # Comments
             vim-commentary
